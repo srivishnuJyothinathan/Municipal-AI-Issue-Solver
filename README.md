@@ -152,18 +152,15 @@ npm run dev
 * Admin Dashboard
 * AI Priority Prediction
 * Analytics Dashboard
+  <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 24 PM" src="https://github.com/user-attachments/assets/86467016-cefc-41f6-84fe-68da8b119dad" />
+  <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 04 PM" src="https://github.com/user-attachments/assets/a1178b65-2cad-479f-9a74-b17af6a2bc50" />
+
+
 
 
 
 
 ---
-
-## 🔥 Future Enhancements
-
-* 📍 Live GPS tracking
-* 📩 SMS/Email notifications
-* 🤖 Image-based issue detection
-* 🌐 Multi-language support
 
 ---
 
