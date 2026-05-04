@@ -154,6 +154,10 @@ npm run dev
 * Analytics Dashboard
   <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 24 PM" src="https://github.com/user-attachments/assets/86467016-cefc-41f6-84fe-68da8b119dad" />
   <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 04 PM" src="https://github.com/user-attachments/assets/a1178b65-2cad-479f-9a74-b17af6a2bc50" />
+  <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 04 PM" src="https://github.com/user-attachments/assets/49b2d2be-4f2e-4129-8892-6ac622970ac3" />
+  <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 04 PM" src="https://github.com/user-attachments/assets/e7a1b5f9-fe2a-4a4f-a114-20e80d44491e" />
+
+
 
 
 
@@ -161,13 +165,9 @@ npm run dev
 
 
 ---
-
+AUTHOR
 ---
-
-## 🧑‍💻 Author
-
-**Your Name**
-
+SRIVISHNU JYOTHINATHAN
 ---
 
 ## 📄 License
