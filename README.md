@@ -152,7 +152,8 @@ npm run dev
 * Admin Dashboard
 * AI Priority Prediction
 * Analytics Dashboard
-  <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 24 PM" src="https://github.com/user-attachments/assets/502f2876-e363-4c56-b62d-94a27817a1fe" />
+<img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 30 19 PM" src="https://github.com/user-attachments/assets/f652ad97-866e-45ca-a2db-24fca9c2055d" />
+
 
   <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 24 PM" src="https://github.com/user-attachments/assets/86467016-cefc-41f6-84fe-68da8b119dad" />
   <img width="1470" height="956" alt="Screenshot 2026-05-04 at 10 32 04 PM" src="https://github.com/user-attachments/assets/a1178b65-2cad-479f-9a74-b17af6a2bc50" />
